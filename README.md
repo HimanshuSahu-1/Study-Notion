@@ -77,5 +77,5 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 ## Contact
 
 - Email: hsahu8268@gmail.com
-- Linkedin: [Himanshu Sahu]( https://linkedin.com/in/himanshu-sahu)
+- Linkedin: [Himanshu Sahu](https://www.linkedin.com/in/himanshu-sahu-/)
   
