@@ -180,3 +180,55 @@ const Footer = () => {
 };
 
 export default Footer;
+
+
+
+// function onclick(){
+   
+// }
+
+// <button onclick >
+//   Click me 
+// </button>
+
+// import React from 'react'
+
+//  const Footer = () => {
+//     let count =1  ;  
+//     const clickhandler = () => {
+//       console.log('Clicked')
+//       count++;
+//       console.log(count)
+//     }
+
+//     const clickhandler1 = () => {
+//       console.log('Clicked')
+//       count--;
+//       console.log(count)
+//     }
+
+//   return (
+//     <div>
+    
+//     Footer
+
+//     <div>
+
+//       <button onClick={clickhandler}>
+//         Click me 
+//       </button>
+  
+//       <button onClick={clickhandler1}>
+//         Cut me  
+//       </button>
+
+//     </div>
+
+    
+    
+//     </div>
+//   )
+// }
+
+
+// export default Footer

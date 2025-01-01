@@ -22,7 +22,8 @@ exports.signup = async (req, res) => {
 			accountType,
 			contactNumber,
 			otp,
-		} = req.body;
+		} = req.body; 
+		console.log("firstName is ", firstName)
 		// Check if All Details are there or not
 		if (
 			!firstName ||
@@ -117,7 +118,8 @@ exports.login = async (req, res) => {
 	try {
 		// Get email and password from request body
 		const { email, password } = req.body;
-
+        
+		 console.log("email is " , email)
 		// Check if email or password is missing
 		if (!email || !password) {
 			// Return 400 Bad Request status code with error message
