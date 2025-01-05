@@ -36,7 +36,7 @@
 
 
 
-
+// Fresh code 
 const nodemailer = require("nodemailer");
 
 const mailSender = async (email, title, body) => {                            // with the help of this function we send mail of otp;      
